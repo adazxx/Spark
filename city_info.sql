@@ -1,0 +1,1 @@
+SELECT * FROM spark.city_info;
